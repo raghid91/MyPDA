@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My PDA</string>
+    <string name="title_activity_to_do">To Do</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MainActivityHelpText">This page explains how to use the main activity.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ExerciseLogActivityHelpText">This page explains how to use the Exercise Log activity.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ExpensesActivityHelpText">This page explains how to use the Expenses activity.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="SettingsActivityHelpText">This page explains how to use the Settings activity.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="TimeLogActivityHelpText">This page explains how to use the Time Log activity.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ToDoActivityHelpText">This page explains how to use the To Do activity.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
